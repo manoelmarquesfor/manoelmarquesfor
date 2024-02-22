@@ -9,7 +9,7 @@
   <img width="46.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=manoelmarquesfor&hide_border=true&theme=dark&layout=compact">
 </div>
   
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelmarquesfor&langs_count=10&count_private=true&hide_border=true&theme=dark&layout=compact&hide=javascript,html">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelmarquesfor&langs_count=20&count_private=true&hide_border=true&theme=dark&layout=compact&hide=javascript,html">
 
 </div>
 
